@@ -1,0 +1,25 @@
+body {
+	text-align: center;
+	background-color: white;
+}
+
+.page-title {
+	margin: 10px 0 25px 0;
+   font-family: 'Sansita Swashed', cursive;
+   font-size: 60px;
+   color: #4b4b4b
+}
+
+.page-subtitle {
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 20px;
+	color: #4b4b4b;
+}
+
+.text p {
+	margin: 15px 0 30px 0;
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 18px;
+	color: #4b4b4b;
+
+}
